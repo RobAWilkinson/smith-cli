@@ -1,6 +1,18 @@
 [
-    "Map",
-    "Filter",
-    "Reduce",
-    "Test Exercise"
+  "CLONE",
+  "TAKE",
+  "FOREACH",
+  "FOREACHRIGHT",
+  "MAP",
+  "FILTER",
+  "REJECT",
+  "UNIQ",
+  "PLUCK",
+  "REDUCE",
+  "FLATTENDEEP",
+  "CLONEDEEP",
+  "APPLYANDEMPTY",
+  "MEMOIZE",
+  "SORTBY",
+  "ZIP"
 ]
